@@ -1,62 +1,39 @@
-# Customer Personality Analysis - Exploratory Data Analysis (EDA)
+# Customer Personality Analysis Dashboard
 
 ## Project Overview
 
-This project performs Exploratory Data Analysis (EDA) on the Customer Personality Analysis dataset using Python. The objective is to understand customer demographics, income distribution, purchasing behavior, and product preferences through statistical analysis and data visualization.
+This project presents an interactive Power BI dashboard built using the Customer Personality Analysis dataset. The dashboard analyzes customer demographics, income, spending behavior, and purchasing patterns to generate business insights.
 
-## Tools & Technologies
+## Tools Used
 
-- Python
-- Jupyter Notebook
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+- Power BI Desktop
+- Microsoft Excel / CSV
+- Data Visualization
 
-## Dataset
+## Dashboard Features
 
-Customer Personality Analysis Dataset
-
-## Project Workflow
-
-1. Import Libraries
-2. Load Dataset
-3. Data Cleaning
-4. Exploratory Data Analysis (EDA)
-5. Univariate Analysis
-6. Bivariate Analysis
-7. Correlation Analysis
-8. Product Spending Analysis
-9. Business Insights
-10. Conclusion
-
-## Visualizations
-
-- Year of Birth Distribution
-- Income Distribution
+- Total Customers KPI
+- Average Income KPI
+- Total Wine Spending KPI
+- Total Store Purchases KPI
 - Education Distribution
 - Marital Status Distribution
 - Income vs Wine Spending
-- Income by Education
-- Correlation Heatmap
-- Total Spending by Product
+- Web vs Store Purchases
+- Interactive Slicers
 
-## Key Insights
+## Business Insights
 
-- Most customers belong to the Graduation education category.
-- Married customers represent the largest customer group.
+- Graduation is the most common education level.
+- Married customers form the largest customer group.
 - Higher-income customers tend to spend more on wine products.
-- Wine products have the highest overall spending.
-- Meat products are the second-highest spending category.
-- Customer income positively influences purchasing behavior.
+- Store purchases are higher than web purchases.
+- Customer demographics influence purchasing behavior.
 
-## Project Preview
+## Dashboard Preview
 
-![EDA Preview](EDA_Preview.png)
 
-## Conclusion
-
-The analysis provides valuable insights into customer demographics, spending behavior, and purchasing patterns. These findings can help businesses improve customer segmentation, targeted marketing, and strategic decision-making.
+![Dashboard](Dashboard.png.jpeg)
 
 ## Author
 
